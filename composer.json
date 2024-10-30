@@ -1,0 +1,17 @@
+{
+    "name": "phoebe/hostplugin-woocommerce-points-reward",
+    "description": "Allows your customers to earn points and rewards by purchasing products",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Phoebe Ng",
+            "email": "noreply@hostplugin.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"HPWooRewardsIncludes\\": "./includes"}
+    }
+}

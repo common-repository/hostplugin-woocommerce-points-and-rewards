@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostplugin - Woocommerce Points and Rewards\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-18 19:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#: includes/Cart.php:121 includes/Cart.php:154
+msgid "Point Discount"
+msgstr ""
+
+#: includes/Cart.php:134 includes/Cart.php:243
+msgid "Apply "
+msgstr ""
+
+#: includes/Cart.php:135 includes/Cart.php:240
+msgid "Remove "
+msgstr ""
+
+#: includes/Cart.php:162
+msgid "The maximum discount you can get is: "
+msgstr ""
+
+#: includes/Helper.php:48
+msgid "Sign up now and receive [bold]{points} {points_label}[/bold]"
+msgstr ""
+
+#: includes/Helper.php:49
+msgid "Add your review and receive [bold]{points} {points_label}[/bold]"
+msgstr ""
+
+#: includes/Helper.php:50
+msgid "Purchase this product and earn [bold]{points} {points_label}[/bold]"
+msgstr ""
+
+#: includes/Helper.php:51
+msgid "Complete your order and earn [bold]{points} {points_label}[/bold] for a discount on a future purchase"
+msgstr ""
+
+#: includes/Helper.php:52
+msgid "Please create an account or login to your existing account to receive your {points_label}"
+msgstr ""
+
+#: includes/Helper.php:53
+msgid "We will add {points_label} to your account once the order is completed."
+msgstr ""
+
+#: includes/Helper.php:54
+msgid "You have {points} {points_label} in your account"
+msgstr ""
+
+#: includes/Helper.php:55
+msgid "You need to add {money} product(s) to your order to redeem your {points_label}"
+msgstr ""
+
+#: includes/Points.php:370
+msgid "{points_label} earned for purchase"
+msgstr ""
+
+#: includes/Points.php:391
+msgid "{points_label} earned for account signup"
+msgstr ""
+
+#: includes/Points.php:412
+msgid "{points_label} earned for reviewing product"
+msgstr ""
+
+#: includes/Points.php:436
+msgid "{points_label} adjusted by "
+msgstr ""
+
+#: includes/Points.php:437
+msgid "Note: "
+msgstr ""
+
+#: includes/Points.php:459
+msgid "{points_label} redeemed towards purchase"
+msgstr ""
+
+#: includes/PointsPremium.php:95
+msgid "Earned {points_label} deducted"
+msgstr ""
+
+#: includes/PointsPremium.php:233
+msgid "{points_label} credited for cancelled / refunded order"
+msgstr ""
+
+# Your [point name]
+#: templates/my_account.php:8
+#, php-format
+msgid "Your %s"
+msgstr ""
+
+# You have x [point name]
+#: templates/my_account.php:9
+#, php-format
+msgid "You have %s %s"
+msgstr ""
+
+#: templates/my_account.php:13
+#: templates/user_points_details.php:68
+msgid "Date"
+msgstr ""
+
+#: templates/my_account.php:14
+#: templates/user_points_details.php:69
+msgid "Order ID"
+msgstr ""
+
+#: templates/my_account.php:15
+#: templates/user_points_details.php:70
+msgid "Comment ID"
+msgstr ""
+
+#: templates/my_account.php:16
+#: templates/user_points_details.php:71
+msgid "Event"
+msgstr ""
+
+#: templates/my_account.php:26
+msgid " ago"
+msgstr ""

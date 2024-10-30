@@ -1,0 +1,29 @@
+.hide {
+	text-indent: -10000px;
+	display: none !important;
+}
+
+body.woocommerce-account ul li.woocommerce-MyAccount-navigation-link--hp-woo-rewards-points a:before {
+   font-family: dashicons;
+   content: "\f526";
+}
+
+.point-link {
+	padding-right: 10px !important;
+}
+
+.hp_woo_color_red {
+	color: red;
+}
+
+.hp_woo_color_blue {
+	color: blue;
+}
+
+.hp_woo_color_brown {
+	color: brown;
+}
+
+.hp_woo_color_black {
+	color: black;
+}

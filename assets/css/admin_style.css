@@ -1,0 +1,119 @@
+input.short {
+	width: 75px !important;
+}
+
+input.medium, select.medium {
+	width: 200px !important;
+}
+
+input, select, textarea {
+	vertical-align: middle !important;
+}
+
+.select2 {
+	min-width: 400px;
+}
+
+span.spaceleft {
+	padding-left: 20px;
+}
+
+span.premium {
+	font-style: italic;
+	color: #10344c;
+	font-weight: bold;
+}
+
+.postbox-container.fullsize {
+	width:100%;
+}
+
+.vid-container iframe {
+	display: block;
+	margin: auto;
+}
+
+section {
+	display: block;
+	margin: 0 auto;
+	min-height: 200px;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 20px;
+}
+
+section:nth-child(odd) {
+    background-color: #f1f1f1;
+}
+
+section:nth-child(odd) li:nth-child(odd) {
+    float: right;
+	width: 50%;
+}
+
+section:nth-child(odd) li:nth-child(even) {
+    float: left;
+	width: 50%;
+}
+
+section:nth-child(even) {
+    background-color: #fff;
+}
+
+section:nth-child(even) li:nth-child(odd) {
+    float: right;
+	width: 50%;
+}
+
+section:nth-child(even) li:nth-child(even) {
+    float: left;
+	width: 50%;
+}
+
+
+section h2 {
+	text-transform: uppercase;
+}
+
+section ul {
+	list-style-type: none;
+}
+
+section ul:after {
+	display:block;
+    content: "";
+    clear: both;
+}
+
+.premium-logo {
+	width: 200px;
+}
+
+input[id$="_bold_tag"] {
+	font-weight: bold;
+}
+
+input[id$="_italic_tag"] {
+	font-style: italic;
+}
+
+input[id$="_blue_tag"] {
+	color: blue !important;
+}
+
+input[id$="_red_tag"] {
+	color: red !important;
+}
+
+input[id$="_purple_tag"] {
+	color: purple !important;
+}
+
+input[id$="_brown_tag"] {
+	color: brown !important;
+}
+
+input[id$="_black_tag"] {
+	color: black !important;
+}
